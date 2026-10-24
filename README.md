@@ -13,7 +13,7 @@ omarchy theme install https://github.com/gustavohariel/omarchy-friday-the-13th-t
 
 ## Wallpapers
 
-`01`–`07` are free-licence photos from Wikimedia Commons, regraded to night by `art/make-wallpapers.sh`.
+`01`–`07` are free-licence photos from Wikimedia Commons, regraded to night.
 The regraded versions are shared under the same licence as their source.
 
 | File | Source | Credit | Licence |
